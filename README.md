@@ -19,3 +19,10 @@ This repository features a collection of basic Python Tkinter operations and app
 * tkinter_learn.py
 
 These files consist of a basic Tkinter explanation and tutorial how it works
+## Password Manager
+
+A dual-purpose utility built in Python that handles credential management.
+
+**Generator**: Creates complex, random passwords to ensure account security.**
+
+**Manager**: Saves email, website, and passwords to a local file so you never lose track of your credentials.
