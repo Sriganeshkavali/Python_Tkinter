@@ -10,3 +10,12 @@ This repository features a collection of basic Python Tkinter operations and app
 
 ## Miles to KM 
 * A basic Tkinter GUI project to convert Miles to KM 
+
+## Tkinter Tutorial 
+* tkinter_example.py
+
+* tkinter_layout.py
+
+* tkinter_learn.py
+
+These files consist of a basic Tkinter explanation and tutorial how it works
