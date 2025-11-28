@@ -7,3 +7,6 @@ This repository features a collection of basic Python Tkinter operations and app
 1. Features an automated countdown mechanism for work and break sessions.
 
 2. Includes dynamic UI updates and state management for user control.
+
+## Miles to KM 
+* A basic Tkinter GUI project to convert Miles to KM 
